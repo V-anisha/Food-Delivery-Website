@@ -1,8 +1,8 @@
-# shoppingsite
-Watch it on youtube now...
-https://www.youtube.com/watch?v=GiWJQOin5dk
+"Food Delivery Website" is a meticulously crafted platform developed using HTML, CSS, and JavaScript. This user-friendly website provides a carefully curated assortment of dining options, granting users the convenience to effortlessly browse and place orders with just a few clicks.
 
-Some screenshots from the project
+
+Some screenshots from the project.
+
 
 ![Screenshot (142)](https://user-images.githubusercontent.com/68517660/138282796-0e46154f-b75f-438c-93a6-e9a56c0681d8.png)
 
