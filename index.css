@@ -114,9 +114,6 @@ body{
 .food-items{
     display: none;
 }
-.cart-toggle{
-    display: block;
-}
 .util i,.user i{
     font-size: 18px;
     margin: 0 16px;
@@ -206,9 +203,6 @@ color: white;
 .food-items{
     display: none;
 }
-.cart-toggle{
-    display: none;
-}
 #cart-page{
     background: white;
     margin: 40px 10px;
@@ -231,20 +225,52 @@ color: white;
     font-size: 25px;
     padding-bottom: 10px;
 }
-
-.cart-btn{
+.cod {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    border: 1px solid #ddd;
+    padding: 2%; 
+}
+  
+.cod-ul {
+    font-size: large;
+    list-style-type: none;
+    margin: 0; 
+    padding: 0; 
+}
+.cod-ul li{
+    margin-top: 5%; 
+    margin-bottom: 5%;
+}
+  
+.cod label {
+    display: flex; 
+    align-items: center; 
+    cursor: pointer; 
+}
+  
+.cod input[type="radio"] {
+    margin-right: 10px; 
+  }
+.cart-btn {
     outline: none;
     border: none;
     background: crimson;
     color: white;
-    padding: 10px 25px;
+    padding: 25px 50px;
     border-radius: 20px;
     font-size: 18px;
     text-transform: uppercase;
-    bottom: 30px;
-    margin: 15px 0;
     cursor: pointer;
 }
+  
+.btn-box {
+    display: flex; 
+    justify-content: center;
+    margin: 15px 0; 
+}
+  
 #cart-page table tbody td{
     padding: 10px 0;
     font-size: 20px;
@@ -264,13 +290,12 @@ color: white;
     width: 75px;
     height: 75px;
     border-radius: 50%;
-}
+}  
 #checkout{
-    text-align: center;
-    margin: 40px auto;
-    border-radius: 5px;
-    background: white;
-    padding: 10px 20px;
+    display: flex;
+    align-items: center; /* Align items vertically */
+    justify-content: space-between; /* Distribute items horizontally */
+    padding: 10px;
 }
 #checkout p{
     margin: 15px 0;
