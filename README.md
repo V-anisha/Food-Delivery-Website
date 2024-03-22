@@ -1,5 +1,9 @@
 "Food Delivery Website" is a meticulously crafted platform developed using HTML, CSS, and JavaScript. This user-friendly website provides a carefully curated assortment of dining options, granting users the convenience to effortlessly browse and place orders with just a few clicks.
 
+Entity Relational Model - 
+
+![image](https://github.com/V-anisha/Food-Delivery-Website/assets/121720827/19868426-9c4b-46df-826f-58b8f0182c0e)
+
 
 Some screenshots from the project.
 
